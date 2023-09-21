@@ -1,0 +1,36 @@
+{
+  "name": "portfolio-1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@iconify/react": "^3.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^9.0.0",
+    "next": "11.1.2",
+    "next-optimized-images": "^2.6.2",
+    "react": "17.0.2",
+    "react-accessible-accordion": "^3.3.5",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.15.2",
+    "react-odometerjs": "^2.1.2",
+    "react-reveal": "^1.2.2",
+    "react-scroll": "^1.8.4",
+    "react-visibility-sensor": "^5.1.1",
+    "react-youtube": "^7.13.1",
+    "rodal": "^1.8.1",
+    "theme-ui": "^0.11.2",
+    "typeface-poppins": "^1.1.13",
+    "typeface-roboto": "^1.1.13"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
