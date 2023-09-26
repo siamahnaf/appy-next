@@ -1,128 +1,63 @@
+ <img src="https://lh3.googleusercontent.com/d/1itTuDTkuBkfMYuRh6MAScV3nxFVGbpmo" width="100" height="100" style="display: block; margin: 0 auto;">
 
-![Logo](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/CodeStation-21-logo.jpg?alt=media&token=b944de69-81fd-436a-85a8-96d693aa13cb)
+# Appy Portfolio
+Appy portfolio is a static nextjs portfolio template build with nextjs, material-ui and designed for any app introducing portfolio. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations.
 
-
-# Appy porfolio website
-
-A responsive beautiful Mobile App porfolio landing page website using next js.
-
-## Demo
-
+## Live demo
 https://appy-portfolio.netlify.app/
-## Features
-
-- smooth animation
-- Nice looking UI
-- Responsive 
-- SEO friendly
-- Ultra Fast 
-## Installation
-
-
-Install the dependencies and run the development server
-
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
-## Screenshots
-
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/appy.jpeg?alt=media&token=54265c19-3d20-4659-8c75-dec215d18694)
-
-
-
-
-
-
-
-
-## Video
-
-![Alt Text](https://media.giphy.com/media/TIQ2AJ5imTGtrK2Fkt/giphy.gif)
-## Tech Stack
-
-**Client:** 
-Next js,javascript, React Js
-
-
-
 
 ## Run Locally
+- **Download:** Start by downloading the code.
+- **Install Dependencies:** Run `npm i` to install the necessary dependencies.
+- **Launch:** Launch your development environment with `npm run dev`.
+- **Access:** Simply open your web browser and navigate to `localhost:3000`.
 
-Clone the project
+## Key features
+- Created with NextJS and Material UI
+- Specially designed for any app showcase portfolio
+- Smooth transition animations
+- Beautiful interactive design
+- All necessary sections
+- Beautiful UI
 
-```bash
-  git clone https://github.com/codestation21/Appy-nextjs-portfolio.git
-```
+## Tech Toolset
+- React.js
+- Next.js
+- Material UI
+  
+<img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1hnSjW2F7h6IPJglpml9rPNaw7chwLWYZ" width="30px" height="30px" />
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
-Packages
-```bash
-npm i 
-```
-Run
-```bash
-npm run dev
-```
-
+## Screenshot
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695753164/scrnli_9_27_2023_12-31-33_AM_miqjcc.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
-
-For support, email contact@codestation21.com or join our Telegram channel.
-
+Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
 
 ## Authors
+- [www.cabbageweb.com](https://www.cabbageweb.com/)
+- [www.siamahnaf.com](https://www.siamahnaf.com/)
 
-- [@codestation21](https://www.github.com/codestation21)
+## Who we are?
+We are your go-to team for web application development. Whether it's creating beautiful frontends, robust backends, or ensuring smooth deployments, we've got you covered.
 
+- **Frontend Development**
+Crafting stunning and responsive user interfaces is our forte. We ensure your web app not only looks great but also delivers an exceptional user experience.
+- **Backend Development**
+We build secure, scalable, and high-performance server-side solutions, tailored to your needs, ensuring your web app runs smoothly.
+- **Deployment Services**
+We handle server setup, configuration, and maintenance, ensuring your web app is deployed securely and efficiently.
 
-## 🚀 About Us
-# Hi, We are Codestation21 👋
-A software Developers company that's run by the enthusiast. Want to solve problems with the power of code.
-
-
-## License
-
-[MIT](https://codestation21.com/licences)
-
-
-## Other Common Github Profile Sections
-👩‍💻 We are currently working on Mern Stack Based Solutions
-
-🧠 We are currently learning AI and Blockchain
-
-👯‍♀️ We are looking to collaborate on startups, businesses, agencies, and individuals
-
-🤔 I'm looking for help with 
-
-💬 Ask me about anything at WhatsApp
-
-📫 How to reach me... check social media links
+## Connect with us
+<div style="display: flex; align-items: center; gap: 3px;">
+<a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/cabbageweb/" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1hqME_Okrps0P1tKi18Rl66W7oa334daw" width="40" height="40"></a>
+<a href="https://twitter.com/cabbageweb" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1gCRI58aHh_TXF7uGOMu9F-E2eN4x6AyS" width="40" height="40"></a>
+<a href="https://www.facebook.com/cabbageweb/" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1gttW7FCHrt2fNCaVQXEYC_wUCYbOYpTJ" width="40" height="40"></a>
+<a href="https://t.me/siamahnaf198" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1v8rpDVzSc4GmXS8axq5y3fR1i-OnRRaY" width="40" height="40"></a>
+<a href="https://www.npmjs.com/org/cabbageweb" style="margin-right: 8px"><img src="https://lh3.googleusercontent.com/d/1t6V2ZlSUyDhwgSaJ5CCj_wDxkQIYQKjR" width="40" height="40"></a>
+</div>
 
 
+------------
 
-
-## 🔗 Social Media Links
-
-[![instagram](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/icons%2F1298747_instagram_brand_logo_social%20media_icon.png?alt=media&token=cdc628d8-3314-4abc-8d24-98b4d3e35028)](https://www.instagram.com/codestation21)
-
-[![facebook](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/icons%2F5296500_fb_social%20media_facebook_facebook%20logo_social%20network_icon.png?alt=media&token=b023f508-5302-4b6a-89a8-0d9dbeed3265)](https://www.facebook.com/codestation21)
-
-[![telegram](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/icons%2F4375108_logo_telegram_icon.png?alt=media&token=811c5566-0ce9-49bb-ad7d-04c2b5b190a2)](https://t.me/codestation21)
-
-
-[![Whatsapp](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/icons%2F4362952_whatsapp_logo_social%20media_messaging%20app_icon.png?alt=media&token=ecb49d2f-dc7c-43a5-8240-611289941a5c)](https://wa.me/message/KMNVLHTT5YR2N1)
-
-
-[![Linkedin](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/icons%2F1298749_linkedin_icon.png?alt=media&token=472340d3-2b74-4a74-97bc-585ca8db7296)](https://www.linkedin.com/company/codestation21)
-
-
-## Scan and contact Us
-[![Whatsapp](https://firebasestorage.googleapis.com/v0/b/codestation21-42e53.appspot.com/o/codestation%20qr%20code%20r.jpeg?alt=media&token=5aed4fac-e49f-4c64-a750-fb396b515063)](https://wa.me/message/KMNVLHTT5YR2N1)
+<p align="center" color="red"><a href="https://www.cabbageweb.com/">www.cabbageweb.com</a></p>
