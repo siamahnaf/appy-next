@@ -32,7 +32,7 @@ https://appy-portfolio.netlify.app/
 <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/react.png" width="34px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/nextjs.png" width="135px" height="30px" /> <img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/mui.png" width="30px" height="30px" />
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/toolsets/appy.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
+<img src="https://raw.githubusercontent.com/siamahnaf/assets-kit/main/screenshots/appy.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Webinuxs
 <picture>
